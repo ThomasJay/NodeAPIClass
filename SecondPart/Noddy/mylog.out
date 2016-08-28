@@ -1,0 +1,13 @@
+program_name=/usr/local/bin/node
+script_path=/Users/tom/Desktop/Noddy/server.js
+port_string=4242
+environment = mongodb://localhost:27017/Noddy
+/Users/tom/Desktop/Noddy
+/Users/tom/Desktop/Noddy/server.js
+/Users/tom/Desktop/Noddy/public
+connected successfully to mongodb server: mongodb://localhost:27017/Noddy
+things controller setDBConnectionFromApp Started
+users controller setDBConnectionFromApp Started
+Server Running on port 4242
+In authorization
+In authorization appKeyParam=112233
